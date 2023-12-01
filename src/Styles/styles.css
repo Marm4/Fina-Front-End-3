@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: black;
+}
+
+.light {
+  /* Estilos para el tema claro */
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark {
+  /* Estilos para el tema oscuro */
+  background-color: #333333;
+  color: #ffffff;
+}
